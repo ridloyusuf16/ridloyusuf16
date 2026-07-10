@@ -1,25 +1,22 @@
+### 💫 Halo!
 
-![Header](./img/github-header-banner.png)
-
-### 👋 About Me 
-I am a passionate Web Developer with 1 year of professional experience in building robust, efficient, and scalable web applications. My journey in software development started during my college years, where I built various web-based projects. I thrive on solving complex problems, writing clean code, and continuously learning new technologies to deliver high-quality digital solutions.
-
-- 🔭 I’m currently looking for opportunities as a Full-Stack or Web Developer.
-- 🌱 I’m currently honing my skills in full-stack development with the MERN stack.
+Saya adalah seorang Software Developer yang berfokus pada pengembangan aplikasi web, dengan pengalaman profesional selama 1 tahun. Perjalanan saya di dunia rekayasa perangkat lunak telah dimulai sejak masa kuliah, di mana saya aktif membangun berbagai proyek berbasis web. Hingga saat ini, saya masih terus meningkatkan kemampuan di bidang pengembangan perangkat lunak dengan mempelajari teknologi baru untuk menghadirkan solusi digital berkualitas tinggi.
+<br>🔭 **Saat ini saya sedang mencari peluang sebagai Software Developer, khususnya Web Developer.**
+🌱 **Saya sedang mengasah keterampilan dalam pengembangan full-stack dengan MERN stack.**
 
 <br>
 
-### 🛠️ Tech Stack & Skills
+### 💻 Teknologi & Keahlian
 
-#### 🚀 Technologies I Use (Current Stack)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35" /> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" width="35" height="35" /> &nbsp;<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/termius.svg" alt="Termius" width="35" height="35" />
+##### 🚀 Teknologi yang Saya Gunakan (Current Stack)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 
+##### 📚 Sedang Dipelajari & Didalami (Ongoing)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23121011.svg?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-#### 📚 Currently Learning & Exploring (Ongoing)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="React" width="35" height="35"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="React" width="35" height="35"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="35" height="35"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
+<br>
 
-### 📊 GitHub Analytics
-
-[![Yusuf's GitHub stats](https://github-stats-extended.vercel.app/api?username=ridloyusuf16&show_icons=true)](https://github.com/stats-organization/github-stats-extended)&nbsp;&nbsp;
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ridloyusuf16)](https://github.com/stats-organization/github-stats-extended)
-
+### 📊 GitHub Statistik
+![](https://github-readme-stats.shion.dev/api?username=ridloyusuf16&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ridloyusuf16&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ridloyusuf16&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
