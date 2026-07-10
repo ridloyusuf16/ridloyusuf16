@@ -1,4 +1,6 @@
-### 💫 Halo!
+![Header](./img/github-header-banner.png)
+
+<br>
 
 Saya adalah seorang Software Developer yang berfokus pada pengembangan aplikasi web, dengan pengalaman profesional selama 1 tahun. Perjalanan saya di dunia rekayasa perangkat lunak telah dimulai sejak masa kuliah, di mana saya aktif membangun berbagai proyek berbasis web. Hingga saat ini, saya masih terus meningkatkan kemampuan di bidang pengembangan perangkat lunak dengan mempelajari teknologi baru untuk menghadirkan solusi digital berkualitas tinggi.
 <br>🔭 **Saat ini saya sedang mencari peluang sebagai Software Developer, khususnya Web Developer.**
