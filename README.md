@@ -29,4 +29,6 @@ Saya adalah seorang Software Developer yang berfokus pada pengembangan aplikasi 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
 ###
