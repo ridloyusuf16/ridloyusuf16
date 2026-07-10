@@ -18,3 +18,22 @@ I am a passionate Web Developer with 1 year of professional experience in buildi
 #### 📚 Currently Learning & Exploring (Ongoing)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="React" width="35" height="35"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="React" width="35" height="35"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="35" height="35"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<br>
+
+### 📬 Connect with Me
+
+<a href="https://linkedin.com/in/username_linkedin_kamu" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:email_kamu@gmail.com">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40" />
+</a>
