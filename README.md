@@ -20,20 +20,6 @@ I am a passionate Web Developer with 1 year of professional experience in buildi
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</p>
+[![Yusuf's GitHub stats](https://github-stats-extended.vercel.app/api?username=ridloyusuf16&show_icons=true)](https://github.com/stats-organization/github-stats-extended)&nbsp;&nbsp;
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ridloyusuf16)](https://github.com/stats-organization/github-stats-extended)
 
-<br>
-
-### 📬 Connect with Me
-
-<a href="https://linkedin.com/in/username_linkedin_kamu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:email_kamu@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40" />
-</a>
